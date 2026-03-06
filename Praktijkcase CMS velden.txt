@@ -1,0 +1,177 @@
+CMS velden. CTA Section
+Sectie: Call To Action (CTA)
+
+Deze sectie bevat een titel, beschrijving, optionele knop en twee CTA kaarten met afbeelding, titel en tekst.
+
+Algemene sectie velden
+-----------------------------------------------------------------------------------------------------------------------
+Veld: Label
+
+Verplicht: Nee
+
+Default waarde: "Label"
+
+Helptekst: Kleine categorie-tekst boven de titel (bijv. "Resources", "Services", "Case study").
+
+Beperkingen:
+
+Maximaal 30 karakters
+
+Alleen tekst
+-----------------------------------------------------------------------------------------------------------------------
+Veld: Hoofdtitel
+
+Verplicht: Ja
+
+Default waarde: "Mandatory title about the call-to-action here"
+
+Helptekst: Grote titel van de CTA-sectie.
+
+Beperkingen:
+
+Maximaal 80 karakters
+
+Alleen tekst
+-----------------------------------------------------------------------------------------------------------------------
+Veld: Beschrijving
+
+Verplicht: Nee
+
+Default waarde: "Optional body copy goes here."
+
+Helptekst: Korte beschrijving onder de titel die extra context geeft.
+
+Beperkingen:
+
+Maximaal 200 karakters
+-----------------------------------------------------------------------------------------------------------------------
+Veld: Button tekst
+
+Verplicht: Nee
+
+Default waarde: "Optional button →"
+
+Helptekst: Tekst van de knop onder de beschrijving.
+
+Beperkingen:
+
+Maximaal 30 karakters
+-----------------------------------------------------------------------------------------------------------------------
+Veld: Button link
+
+Verplicht: Nee
+
+Default waarde: "#"
+
+Helptekst: URL waar de knop naartoe linkt.
+
+Beperkingen:
+
+Moet een geldige URL of interne pagina zijn
+-----------------------------------------------------------------------------------------------------------------------
+
+CTA Card 1
+-----------------------------------------------------------------------------------------------------------------------
+Veld: Card 1 afbeelding
+
+Verplicht: Ja
+
+Default waarde: assets/img1.jpg
+
+Helptekst: Afbeelding voor de eerste CTA kaart.
+
+Beperkingen:
+
+JPG of PNG
+
+beste verhouding: 4:3
+-----------------------------------------------------------------------------------------------------------------------
+
+Veld: Card 1 titel
+
+Verplicht: Ja
+
+Default waarde: "Title"
+
+Helptekst: Titel van de eerste CTA kaart.
+
+Beperkingen:
+
+Maximaal 50 karakters
+-----------------------------------------------------------------------------------------------------------------------
+
+Veld: Card 1 tekst
+
+Verplicht: Nee
+
+Default waarde: "Supporting text about the call to action goes here."
+
+Helptekst: Korte ondersteunende tekst onder de titel.
+
+Beperkingen:
+
+Maximaal 120 karakters
+-----------------------------------------------------------------------------------------------------------------------
+Veld: Card 1 link
+
+Verplicht: Ja
+
+Default waarde: "#"
+
+Helptekst: Link waar de kaart naartoe gaat.
+
+Beperkingen:
+
+Moet een werkende URL of interne pagina zijn
+-----------------------------------------------------------------------------------------------------------------------
+CTA Card 2
+-----------------------------------------------------------------------------------------------------------------------
+Veld: Card 2 afbeelding
+
+Verplicht: Ja
+
+Default waarde: assets/img2.jpg
+
+Helptekst: Afbeelding voor de tweede CTA kaart.
+
+Beperkingen:
+
+JPG of PNG
+
+beste verhouding: 4:3
+-----------------------------------------------------------------------------------------------------------------------
+Veld: Card 2 titel
+
+Verplicht: Ja
+
+Default waarde: "Title"
+
+Helptekst: Titel van de tweede CTA kaart.
+
+Beperkingen:
+
+Maximaal 50 karakters
+-----------------------------------------------------------------------------------------------------------------------
+Veld: Card 2 tekst
+
+Verplicht: Nee
+
+Default waarde: "Supporting text about the call to action goes here."
+
+Helptekst: Korte beschrijving onder de titel.
+
+Beperkingen:
+
+Maximaal 120 karakters
+-----------------------------------------------------------------------------------------------------------------------
+Veld: Card 2 link
+
+Verplicht: Ja
+
+Default waarde: "#"
+
+Helptekst: Link waar de kaart naartoe gaat.
+
+Beperkingen:
+
+Moet een werkende URL of interne pagina zijn
